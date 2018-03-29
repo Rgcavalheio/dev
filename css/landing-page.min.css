@@ -71,6 +71,11 @@ header.masthead h1{
     p{
         font-size: 1em;
     }
+     .in{
+        border-radius: 10px;
+        text-align: center;
+
+    }
      .env{
         background: #646464;
         border-color: #646464
